@@ -47,7 +47,7 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "QUEEN-DINU=r3p1BaDJ#Jnro0CP5eJaDcuAnvX2mRC7iJ36Bayeo-kDBEQqakyA",  //<----DON't REMOVE ["] THESE
+SESSION_ID: process.env.SESSION_ID || "DINU-MD=r3p1BaDJ#Jnro0CP5eJaDcuAnvX2mRC7iJ36Bayeo-kDBEQqakyA",  //<----DON't REMOVE ["] THESE
 SUDO: process.env.SUDO || ["94717775628","94758775628"],
 PORT: process.env.PORT || "8000",
 FOOTER: process.env.FOOTER || "> QUEEN DINU MD \n> Developed by Mr. DINETH\n> GitHub Repository: github.com/Dinuob/QUEEN_DINU_MD\n🌟 Premium Version | Advanced Features | Secure & Reliable 🌟\n© 2025 QUEEN DINU MD. All rights reserved.",
